@@ -1,8 +1,7 @@
-# React + Vite
+# Build a Formik Form
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Este proyecto fue creado usando React y Vite como bundler, pues create-react-app ya ni se menciona en la documentación actualizada de React. Allí se recomienda usar Frameworks como Next.js, Remix o Gatsby en ambientes de producción. En esta documentación hay una sección donde se indica que estando concientes de las ventajas que ofrecen los frameworks se puede también usar bundlers como Vite o Parcel.  
 
-Currently, two official plugins are available:
+https://react.dev/learn/start-a-new-react-project
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+    "If you’re still not convinced, or your app has unusual constraints not served well by these frameworks and you’d like to roll your own custom setup, we can’t stop you—go for it! Grab react and react-dom from npm, set up your custom build process with a bundler like Vite or Parcel, and add other tools as you need them for routing, static generation or server-side rendering, and more."
